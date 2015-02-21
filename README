@@ -3,11 +3,12 @@ HEXED is (c) 1994, 1997 Graham THE Ollis.
 legal stuff
 -----------
 
-HEXED source code and binaries may be used, modified and distributed free
-of cost so long as you keep my comments at the beginning of this file and
-distribute this README with the distribution.  IF YOU DO MAKE CHANGES and
-distribute changed versions it would be nice if you documented these
-changes and a contact point in the source code and/or this README file. 
+HEXED was previously distributed binary only nagware.  When it became 
+obsolete I re-released it with source under my own custom free'ish 
+license.  I am now (February 2015) releasing it under the New BSD 
+License just for fun.  See the LICENSE file for details.  In the 
+unlikely event that you do use any of this stuff, it wouldn't hurt to 
+let me know, but you are not REQUIRED to.
 
 what is hexed?
 --------------
